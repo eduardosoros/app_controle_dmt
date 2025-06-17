@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
 
-get_ipython().system('pip install pyodbc')
 
 
-# In[10]:
 
 
 import pyodbc
@@ -66,7 +63,6 @@ conn.close()
 df.head()
 
 
-# In[11]:
 
 
 df['tipo_ciclo'].unique()
@@ -74,7 +70,6 @@ df['tipo_ciclo'].unique()
 
 # ### Percentual de valores nulos por colunas
 
-# In[12]:
 
 
 # Percentual de valores nulos por coluna
@@ -92,13 +87,11 @@ display(tabela_nulos)
 
 # ### Excluir as linhas com valores NAN
 
-# In[13]:
 
 
 df = df.dropna()
 
 
-# In[14]:
 
 
 df['origem_subarea'].unique()
@@ -106,7 +99,6 @@ df['origem_subarea'].unique()
 
 # ### Estatísticas da variável DMT_Cheio
 
-# In[17]:
 
 
 # Estatísticas descritivas básicas
@@ -129,7 +121,6 @@ print(f"Nº de valores nulos: {df['DMT_Cheio'].isna().sum()}")
 
 # ### SETOR M
 
-# In[19]:
 
 
 # Filtro por origem_subarea
@@ -155,7 +146,6 @@ print(f"Nº de valores nulos: {df_filtrado['DMT_Cheio'].isna().sum()}")
 
 # ### SETOR A
 
-# In[20]:
 
 
 # Filtro por origem_subarea
@@ -181,7 +171,6 @@ print(f"Nº de valores nulos: {df_filtrado['DMT_Cheio'].isna().sum()}")
 
 # ### SETOR D
 
-# In[21]:
 
 
 # Filtro por origem_subarea
@@ -207,7 +196,6 @@ print(f"Nº de valores nulos: {df_filtrado['DMT_Cheio'].isna().sum()}")
 
 # ### SETOR V
 
-# In[22]:
 
 
 # Filtro por origem_subarea
@@ -231,7 +219,6 @@ print(f"Valor máximo: {df_filtrado['DMT_Cheio'].max():.2f}")
 print(f"Nº de valores nulos: {df_filtrado['DMT_Cheio'].isna().sum()}")
 
 
-# In[23]:
 
 
 df.columns.tolist()
@@ -239,7 +226,6 @@ df.columns.tolist()
 
 # ### Histogramas por Origem, frequência de DMT
 
-# In[24]:
 
 
 import matplotlib.pyplot as plt
@@ -296,7 +282,6 @@ plt.savefig("histogramas_dmt_por_origem_subarea.png", dpi=300, bbox_inches='tigh
 plt.show()
 
 
-# In[25]:
 
 
 import matplotlib.pyplot as plt
@@ -359,7 +344,6 @@ plt.show()
 
 
 
-# In[25]:
 
 
 import matplotlib.pyplot as plt
@@ -400,7 +384,6 @@ plt.show()
 
 
 
-# In[26]:
 
 
 import matplotlib.pyplot as plt
@@ -457,7 +440,6 @@ plt.savefig("boxplots_dmt_por_origem_subarea.png", dpi=300, bbox_inches='tight')
 plt.show()
 
 
-# In[27]:
 
 
 import matplotlib.pyplot as plt
@@ -522,7 +504,6 @@ plt.show()
 
 # ### SETOR V, quantos pontos acima da média
 
-# In[28]:
 
 
 # Filtrar apenas a subárea SETOR V

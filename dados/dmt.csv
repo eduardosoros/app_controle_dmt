@@ -7188,3 +7188,6 @@ data_hora_fim,data_fim,turno,caminhao,origem_subarea,destino_subarea,material,gr
 2025-07-22 15:33:57,2025-07-22,Turno 1 (6-18),CB-39,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,82.991,Comum
 2025-07-22 16:42:31,2025-07-22,Turno 1 (6-18),CB-31,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,70.481,Edit_Manual
 2025-07-23 13:45:53,2025-07-23,Turno 1 (6-18),CB-43,SETOR Q,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,185.876,Comum
+2025-07-23 15:19:42,2025-07-23,Turno 1 (6-18),CB-34,SETOR V,BRITADOR,Sulfetado_HG TIPO 2,Minério,Movimentação ROM,34.0,1347.467,Comum
+2025-07-23 15:21:35,2025-07-23,Turno 1 (6-18),CB-34,SETOR V,BRITADOR,Sulfetado_HG TIPO 2,Minério,Movimentação ROM,34.0,,Comum
+2025-07-23 15:34:20,2025-07-23,Turno 1 (6-18),CB-36,SETOR V,BRITADOR,Sulfetado_HG TIPO 2,Minério,Movimentação ROM,34.0,1278.017,Comum

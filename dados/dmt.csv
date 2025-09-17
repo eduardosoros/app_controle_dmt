@@ -13824,7 +13824,7 @@ data_hora_fim,data_fim,turno,caminhao,origem_subarea,destino_subarea,material,gr
 2025-09-17 07:14:05,2025-09-17,Turno 1 (6-18),CB-32,SETOR Q,BRITADOR,Sulfetado HG TIPO 1 D1 ,Minério,Movimentação ROM,34.0,104.146,Comum
 2025-09-17 07:15:31,2025-09-17,Turno 1 (6-18),CB-34,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1196.809,Comum
 2025-09-17 07:18:21,2025-09-17,Turno 1 (6-18),CB-37,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1196.87,Comum
-2025-09-17 07:23:42,2025-09-17,Turno 1 (6-18),CB-32,SETOR Q,BRITADOR,Sulfetado HG TIPO 1 D1 ,Minério,Movimentação ROM,34.0,101.303,Comum
+2025-09-17 07:23:42,2025-09-17,Turno 1 (6-18),CB-32,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,101.303,Edit_Manual
 2025-09-17 07:25:58,2025-09-17,Turno 1 (6-18),CB-34,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1182.541,Comum
 2025-09-17 07:30:11,2025-09-17,Turno 1 (6-18),CB-37,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1200.01,Comum
 2025-09-17 07:35:59,2025-09-17,Turno 1 (6-18),CB-32,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,53.334,Comum
@@ -13833,3 +13833,9 @@ data_hora_fim,data_fim,turno,caminhao,origem_subarea,destino_subarea,material,gr
 2025-09-17 08:01:01,2025-09-17,Turno 1 (6-18),CB-34,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1267.838,Edit_Manual
 2025-09-17 07:56:36,2025-09-17,Turno 1 (6-18),CB-32,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,104.016,Comum
 2025-09-17 08:04:02,2025-09-17,Turno 1 (6-18),CB-34,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1256.74,Comum
+2025-09-17 08:04:25,2025-09-17,Turno 1 (6-18),CB-32,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,103.05,Comum
+2025-09-17 08:09:29,2025-09-17,Turno 1 (6-18),CB-37,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1301.263,Comum
+2025-09-17 08:14:06,2025-09-17,Turno 1 (6-18),CB-32,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,104.627,Comum
+2025-09-17 08:22:41,2025-09-17,Turno 1 (6-18),CB-37,SETOR T,BRITADOR,Sulfetado_MG TIPO 1,Minério,Movimentação ROM,34.0,1290.516,Comum
+2025-09-17 08:26:24,2025-09-17,Turno 1 (6-18),CB-34,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,63.853,Comum
+2025-09-17 08:33:38,2025-09-17,Turno 1 (6-18),CB-34,SETOR S,BRITADOR,Sulfetado_LG TIPO 1,Minério,Movimentação ROM,34.0,100.758,Comum
